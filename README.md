@@ -3,7 +3,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/NNTU-CS/ADS-0)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/NNTU-CS/ADS-0)
 
-![Relative date](https://img.shields.io/date/1685566800)
+<!---![Relative date](https://img.shields.io/date/1685566800) -->
 
 
 ### Задача
